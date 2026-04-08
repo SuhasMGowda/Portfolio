@@ -87,24 +87,29 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>LANGUAGES & DATA</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Core data science and analytics tools for machine learning
+                workflows and exploratory modeling.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Languages & Data</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">NumPy</div>
+                <div className="what-tags">Pandas</div>
+                <div className="what-tags">Matplotlib</div>
+                <div className="what-tags">EDA</div>
+              </div>
+              <h5>ML & Deep Learning</h5>
+              <div className="what-content-flex">
+                <div className="what-tags">Scikit-learn</div>
+                <div className="what-tags">TensorFlow</div>
+                <div className="what-tags">PyTorch</div>
+                <div className="what-tags">CNN</div>
+                <div className="what-tags">LSTM</div>
+                <div className="what-tags">Time-Series</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +133,26 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>CV & CLOUD</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Computer vision and deployment frameworks for scalable AI
+                systems and real-time pipelines.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Computer Vision</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">OpenCV</div>
+                <div className="what-tags">MediaPipe</div>
+                <div className="what-tags">YOLOv8</div>
+                <div className="what-tags">Image Augmentation</div>
+              </div>
+              <h5>Backend & Cloud</h5>
+              <div className="what-content-flex">
+                <div className="what-tags">FastAPI</div>
+                <div className="what-tags">Flask</div>
+                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">Docker</div>
+                <div className="what-tags">REST APIs</div>
               </div>
               <div className="what-arrow"></div>
             </div>

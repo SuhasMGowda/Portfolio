@@ -15,43 +15,44 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Testing & Development Intern</h4>
+                <h5>Heizen</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Designed and executed data-driven testing strategies for AI/ML
+              modules, identifying 15+ critical bugs and increasing system
+              reliability by 30% pre-deployment.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>AI/ML Project Intern</h4>
+                <h5>LRDE, DRDO</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Architecting a hybrid KFFLSTM (Kalman Filter + Fuzzy Logic + LSTM)
+              model to enhance radar target tracking precision, reducing
+              trajectory prediction error in noisy, non-linear environments.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Freelancing</h4>
+                <h5>Self Employed</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Dynamic freelancer delivering high-impact solutions through
+              specialized expertise and a results-driven approach. I partner
+              with clients to streamline workflows, elevate brand value, and
+              ensure project success on time.
             </p>
           </div>
         </div>

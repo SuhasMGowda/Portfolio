@@ -10,8 +10,8 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:example@mail.com" data-cursor="disable">
-                example@mail.com
+              <a href="mailto:suhas.mbls@gmail.com" data-cursor="disable">
+                suhas.mbls@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
@@ -20,11 +20,13 @@ const Contact = () => {
                 +91 99999 99999
               </a>
             </p>
+            <h4>Location</h4>
+            <p>Bangalore, India</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com"
+              href="https://github.com/SuhasMGowda"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -32,7 +34,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/suhas-m-0b0b492b5/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -40,15 +42,15 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com"
+              href="https://leetcode.com/u/Dlx5kaEKQD/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              Leetcode <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/mr.suhas.gowda?igsh=MXZ4ZTB0amhrMjYycQ=="
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -58,7 +60,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Moncy Yohannan</span>
+              Designed and Developed <br /> by <span>Suhas M</span>
             </h2>
             <h5>
               <MdCopyright /> 2024
