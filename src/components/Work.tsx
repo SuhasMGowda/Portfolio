@@ -74,7 +74,7 @@ const Work = () => {
       tech: "Python, YOLOv8, Computer Vision",
       focus:
         "Trained an object detection model on 2,000+ images for automated agricultural sorting, optimized for edge deployment to reduce inference time by 40%.",
-      image: "/images/placeholder.webp",
+      image: "/images/TRD.webp",
       link: "https://github.com/SuhasMGowda/TomatoRipenessDetection",
     },
   ];
